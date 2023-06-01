@@ -6,6 +6,10 @@ public class Test {
 		// TODO Auto-generated method stub
 		int number = 10;
 		String s ="";
+		String name = "kim";
+		
+		System.out.println(name);
+		
 	}
 
 }
