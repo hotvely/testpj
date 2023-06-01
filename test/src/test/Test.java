@@ -10,7 +10,6 @@ public class Test {
 		String s ="";
 		String name = "kim";
 
-		String name = "junu";
 		String name1 = "junu";
 		String name2 = "junu";
 		System.out.println(name1);
